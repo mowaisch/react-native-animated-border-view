@@ -1,6 +1,6 @@
 {
   "name": "react-native-animated-border-view",
-  "version": "0.0.8",
+  "version": "0.0.1",
   "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,6 +21,14 @@
     "lint": "eslint .",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mowaisch/react-native-animated-border-view.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mowaisch/react-native-animated-border-view/issues"
+  },
+  "homepage": "https://github.com/mowaisch/react-native-animated-border-view#readme",
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.74.3",
