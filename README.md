@@ -142,7 +142,7 @@ export default AnimatedBorderViewExample;
 
 Watch the demo video below:
 
-<iframe  src="https://www.youtube.com/watch?v=skfxbTF4bZ8"  ></iframe>
+![Preview](https://github.com/mowaisch/react-native-animated-border-view/blob/main/demo/demo.gif)
 
 ## Props
 
